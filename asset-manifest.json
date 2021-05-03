@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hw-25-valorant-v2/static/css/main.97bab2c1.chunk.css",
+    "main.css": "/hw-25-valorant-v2/static/css/main.85cfaded.chunk.css",
     "main.js": "/hw-25-valorant-v2/static/js/main.41eed58c.chunk.js",
     "main.js.map": "/hw-25-valorant-v2/static/js/main.41eed58c.chunk.js.map",
     "runtime-main.js": "/hw-25-valorant-v2/static/js/runtime-main.7b02b533.js",
@@ -8,7 +8,7 @@
     "static/js/2.edf8a917.chunk.js": "/hw-25-valorant-v2/static/js/2.edf8a917.chunk.js",
     "static/js/2.edf8a917.chunk.js.map": "/hw-25-valorant-v2/static/js/2.edf8a917.chunk.js.map",
     "index.html": "/hw-25-valorant-v2/index.html",
-    "static/css/main.97bab2c1.chunk.css.map": "/hw-25-valorant-v2/static/css/main.97bab2c1.chunk.css.map",
+    "static/css/main.85cfaded.chunk.css.map": "/hw-25-valorant-v2/static/css/main.85cfaded.chunk.css.map",
     "static/js/2.edf8a917.chunk.js.LICENSE.txt": "/hw-25-valorant-v2/static/js/2.edf8a917.chunk.js.LICENSE.txt",
     "static/media/App.css": "/hw-25-valorant-v2/static/media/a.13e226fa.png",
     "static/media/Block.module.css": "/hw-25-valorant-v2/static/media/main page (1).84131d74.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b02b533.js",
     "static/js/2.edf8a917.chunk.js",
-    "static/css/main.97bab2c1.chunk.css",
+    "static/css/main.85cfaded.chunk.css",
     "static/js/main.41eed58c.chunk.js"
   ]
 }
