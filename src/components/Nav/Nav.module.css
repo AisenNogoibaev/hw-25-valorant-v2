@@ -1,0 +1,43 @@
+.cont {
+    width: 2660px;
+}
+.container {
+    width: 2660px;
+    height: 132px;
+    background-color: black;
+    /* margin-left: 140px; */
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.logo1 {
+    margin-left: 73px;
+}
+.palochka {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    padding-top: 46px;
+    padding-bottom: 46px;
+    margin-top: 200px;
+    
+}
+ul {
+    display: flex;
+}
+ul li {
+    list-style: none;
+    margin-left: 70px;
+    color: white;
+}
+.text {
+    margin-left: 70px;
+    padding-top: 10px;
+    color: white;
+}
+.logo3 {
+    margin-left: 752px;
+    margin-right: -50px;
+}

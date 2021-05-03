@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    background-color: white;
+    height: 152px;
+}
+.box2 {
+    /* padding-bottom: 300px; */
+    margin-top: -163px;
+    margin-left: -120px;
+}

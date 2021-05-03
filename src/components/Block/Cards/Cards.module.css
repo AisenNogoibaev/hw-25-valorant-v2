@@ -1,0 +1,77 @@
+.Card:nth-child(1){
+    padding-left: 400px;
+    
+}
+.Card:nth-child(2){
+    margin-left: -100px;    
+}
+.Card:nth-child(3){
+    margin-left: -100px;    
+}
+.Card {
+    padding-top: 20px;
+}
+.Card:last-child {
+    margin-left: -145px;
+  }
+
+.Card div p {
+    font-family:"Arial","Helvetica", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.1em;
+    position: relative;
+    width: 294px; 
+    text-align: left;
+    padding-left: 400px;
+    padding-top: 20px;
+    left: -150px;
+    top: -1040px;
+    color: #FF4656;
+    transform: rotate(90deg);
+}
+.Card div h1 {
+    position: relative;
+    width: 514px;
+    height: 94px;
+    left: -130px;
+    top: -860px;
+    font-family:"Arial","Helvetica", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 94px;
+    letter-spacing: 0.1em;
+    border: none;
+    text-align: left;
+    transform: rotate(90deg);
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+}
+#h1 {
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+
+.Card div {
+    top: 2000px;
+}
+.box{
+    width: 440px;
+    height: 110px;
+    left: 173px;
+    margin-top: -2351px;
+    position: relative;
+    background: #1F2326;
+    border: 2px solid #F8F8F8;
+    box-sizing: border-box;
+    display: flex;
+    align-items: left;
+}
+.box div {
+    margin-left: 40px;
+    margin-top: 29px;
+}
