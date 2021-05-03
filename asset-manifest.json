@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hw-25-valorant-v2/static/css/main.97bab2c1.chunk.css",
+    "main.js": "/hw-25-valorant-v2/static/js/main.41eed58c.chunk.js",
+    "main.js.map": "/hw-25-valorant-v2/static/js/main.41eed58c.chunk.js.map",
+    "runtime-main.js": "/hw-25-valorant-v2/static/js/runtime-main.7b02b533.js",
+    "runtime-main.js.map": "/hw-25-valorant-v2/static/js/runtime-main.7b02b533.js.map",
+    "static/js/2.edf8a917.chunk.js": "/hw-25-valorant-v2/static/js/2.edf8a917.chunk.js",
+    "static/js/2.edf8a917.chunk.js.map": "/hw-25-valorant-v2/static/js/2.edf8a917.chunk.js.map",
+    "index.html": "/hw-25-valorant-v2/index.html",
+    "static/css/main.97bab2c1.chunk.css.map": "/hw-25-valorant-v2/static/css/main.97bab2c1.chunk.css.map",
+    "static/js/2.edf8a917.chunk.js.LICENSE.txt": "/hw-25-valorant-v2/static/js/2.edf8a917.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hw-25-valorant-v2/static/media/a.13e226fa.png",
+    "static/media/Block.module.css": "/hw-25-valorant-v2/static/media/main page (1).84131d74.png",
+    "static/media/main page (2).520ab588.png": "/hw-25-valorant-v2/static/media/main page (2).520ab588.png",
+    "static/media/player (1).bc3e9e47.png": "/hw-25-valorant-v2/static/media/player (1).bc3e9e47.png",
+    "static/media/player (2).0f3fd4ef.png": "/hw-25-valorant-v2/static/media/player (2).0f3fd4ef.png",
+    "static/media/player (3).f39b3474.png": "/hw-25-valorant-v2/static/media/player (3).f39b3474.png",
+    "static/media/player.f37515b8.png": "/hw-25-valorant-v2/static/media/player.f37515b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b02b533.js",
+    "static/js/2.edf8a917.chunk.js",
+    "static/css/main.97bab2c1.chunk.css",
+    "static/js/main.41eed58c.chunk.js"
+  ]
+}
